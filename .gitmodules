@@ -1,0 +1,6 @@
+[submodule "relaton-iso"]
+	path = relaton-iso
+	url = https://github.com/relaton/relaton-iso
+[submodule "relaton"]
+	path = relaton
+	url = https://github.com/relaton/relaton
