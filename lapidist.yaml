@@ -1,0 +1,80 @@
+---
+syncronized_release:
+  - relaton-iso-bib
+  - relaton-bib
+  - relaton-iec
+  - relaton-nist
+  - relaton-ietf
+  - relaton-itu
+  - relaton-iso
+  - relaton-gb
+  - relaton
+  - relaton-cli
+
+packages:
+  # No dependencies: Relaton utility gems
+  isoics:
+    repo: https://github.com/metanorma/isoics
+  cnccs:
+    repo: https://github.com/metanorma/cnccs
+  gb-agencies:
+    repo: https://github.com/metanorma/gb-agencies
+  iev:
+    repo: https://github.com/metanorma/iev
+
+  # Base Relaton gems
+  relaton-iso-bib:
+    repo: https://github.com/metanorma/relaton-iso-bib
+  relaton-bib:
+    repo: https://github.com/metanorma/relaton-bib
+    dependencies:
+      - isoics
+      - relaton-iso-bib
+
+  # Build on iso-bib-item: Flavour gems
+  relaton-iec:
+    repo: https://github.com/metanorma/relaton-iec
+    dependencies:
+      - relaton-iso-bib
+  relaton-nist:
+    repo: https://github.com/metanorma/relaton-nist
+    dependencies:
+      - relaton-bib
+  relaton-ietf:
+    repo: https://github.com/metanorma/relaton-ietf
+    dependencies:
+      - relaton-bib
+  relaton-itu:
+    repo: https://github.com/metanorma/relaton-itu
+    dependencies:
+      - relaton-bib
+  relaton-iso:
+    repo: https://github.com/metanorma/relaton-iso
+    dependencies:
+      - relaton-iso-bib
+      - relaton-iec
+      - isoics
+  relaton-gb:
+    repo: https://github.com/metanorma/relaton-gb
+    dependencies:
+      - relaton-iso-bib
+      - cnccs
+      - gb-agencies
+
+  # Build on flavour gems
+  relaton:
+    repo: https://github.com/metanorma/relaton
+    dependencies:
+      - relaton-iso
+      - relaton-ietf
+      - relaton-itu
+      - relaton-nist
+      - relaton-iec
+      - relaton-gb
+
+  # CLI
+  relaton-cli:
+    repo: https://github.com/metanorma/relaton-cli
+    dependencies:
+      - relaton
+
