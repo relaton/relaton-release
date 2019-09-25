@@ -1,0 +1,174 @@
+= Relaton release repository
+
+WARNING: This repository is for INTERNAL USE ONLY.
+
+== Relaton gems
+
+relaton-bib::
+image:https://img.shields.io/gem/v/relaton-bib.svg["Gem Version", link="https://rubygems.org/gems/relaton-bib"]
+image:https://travis-ci.com/relaton/relaton-bib.svg["Build Status", link="https://travis-ci.com/relaton/relaton-bib"]
+image:https://ci.appveyor.com/api/projects/status/12o3el12w96vioi5?svg=true["Appveyor Build Status", link="https://ci.appveyor.com/project/relaton/relaton-bib"]
+image:https://codeclimate.com/github/relaton/relaton-bib/badges/gpa.svg["Code Climate", link="https://codeclimate.com/github/relaton/relaton-bib"]
+
+relaton-itu::
+image:https://img.shields.io/gem/v/relaton-itu.svg["Gem Version", link="https://rubygems.org/gems/relaton-itu"]
+image:https://travis-ci.com/relaton/relaton-itu.svg["Build Status", link="https://travis-ci.com/relaton/relaton-itu"]
+image:https://ci.appveyor.com/api/projects/status/do11cv5dpfjarr66?svg=true["Appveyor Build Status", link="https://ci.appveyor.com/project/relaton/relaton-itu"]
+image:https://codeclimate.com/github/relaton/relaton-itu/badges/gpa.svg["Code Climate", link="https://codeclimate.com/github/relaton/relaton-itu"]
+
+relaton-gb::
+image:https://img.shields.io/gem/v/relaton-gb.svg["Gem Version", link="https://rubygems.org/gems/relaton-gb"]
+image:https://travis-ci.com/relaton/relaton-gb.svg["Build Status", link="https://travis-ci.com/relaton/relaton-gb"]
+image:https://ci.appveyor.com/api/projects/status/wbmp34egb2wl54u7?svg=true["Appveyor Build Status", link="https://ci.appveyor.com/project/relaton/relaton-gb"]
+image:https://codeclimate.com/github/relaton/relaton-gb/badges/gpa.svg["Code Climate", link="https://codeclimate.com/github/relaton/relaton-gb"]
+
+relaton-iec::
+image:https://img.shields.io/gem/v/relaton-iec.svg["Gem Version", link="https://rubygems.org/gems/relaton-iec"]
+image:https://travis-ci.com/relaton/relaton-iec.svg["Build Status", link="https://travis-ci.com/relaton/relaton-iec"]
+image:https://ci.appveyor.com/api/projects/status/10m91uw5ve7b03u7?svg=true["Appveyor Build Status", link="https://ci.appveyor.com/project/relaton/relaton-iec"]
+image:https://codeclimate.com/github/relaton/relaton-iec/badges/gpa.svg["Code Climate", link="https://codeclimate.com/github/relaton/relaton-iec"]
+
+relaton-ietf::
+image:https://img.shields.io/gem/v/relaton-ietf.svg["Gem Version", link="https://rubygems.org/gems/relaton-ietf"]
+image:https://travis-ci.com/relaton/relaton-ietf.svg["Build Status", link="https://travis-ci.com/relaton/relaton-ietf"]
+image:https://ci.appveyor.com/api/projects/status/9j317su9xsvfi98g?svg=true["Appveyor Build Status", link="https://ci.appveyor.com/project/relaton/relaton-ietf"]
+image:https://codeclimate.com/github/relaton/relaton-ietf/badges/gpa.svg["Code Climate", link="https://codeclimate.com/github/relaton/relaton-ietf"]
+
+relaton-iso::
+image:https://img.shields.io/gem/v/relaton-iso.svg["Gem Version", link="https://rubygems.org/gems/relaton-iso"]
+image:https://travis-ci.com/relaton/relaton-iso.svg["Build Status", link="https://travis-ci.com/relaton/relaton-iso"]
+image:https://ci.appveyor.com/api/projects/status/nb2hvqycupqrkqjt?svg=true["Appveyor Build Status", link="https://ci.appveyor.com/project/relaton/relaton-iso"]
+image:https://codeclimate.com/github/relaton/relaton-iso/badges/gpa.svg["Code Climate", link="https://codeclimate.com/github/metanorma/relaton-iso"]
+
+relaton-iso-bib::
+image:https://img.shields.io/gem/v/relaton-iso-bib.svg["Gem Version", link="https://rubygems.org/gems/relaton-iso-bib"]
+image:https://travis-ci.com/relaton/relaton-iso-bib.svg["Build Status", link="https://travis-ci.com/relaton/relaton-iso-bib"]
+image:https://ci.appveyor.com/api/projects/status/ixgohp20ruhw67bb?svg=true["Appveyor Build Status", link="https://ci.appveyor.com/project/relaton/relaton-iso"]
+image:https://codeclimate.com/github/relaton/relaton-iso-bib/badges/gpa.svg["Code Climate", link="https://codeclimate.com/github/relaton/relaton-iso-bib"]
+
+relaton-nist::
+image:https://img.shields.io/gem/v/relaton-nist.svg["Gem Version", link="https://rubygems.org/gems/relaton-nist"]
+image:https://travis-ci.com/relaton/relaton-nist.svg["Build Status", link="https://travis-ci.com/relaton/relaton-nist"]
+image:https://ci.appveyor.com/api/projects/status/w4n8yr1ki2q6ypu6?svg=true["Appveyor Build Status", link="https://ci.appveyor.com/project/relaton/relaton-nist"]
+image:https://codeclimate.com/github/relaton/relaton-nist/badges/gpa.svg["Code Climate", link="https://codeclimate.com/github/relaton/relaton-nist"]
+
+relaton-ogc::
+image:https://img.shields.io/gem/v/relaton-ogc.svg["Gem Version", link="https://rubygems.org/gems/relaton-ogc"]
+image:https://travis-ci.com/relaton/relaton-ogc.svg["Build Status", link="https://travis-ci.com/relaton/relaton-ogc"]
+image:https://ci.appveyor.com/api/projects/status/cv5759ng5yl5m78q?svg=true["Appveyor Build Status", link="https://ci.appveyor.com/project/relaton/relaton-ogc"]
+image:https://codeclimate.com/github/relaton/relaton-ogc/badges/gpa.svg["Code Climate", link="https://codeclimate.com/github/relaton/relaton-ogc"]
+
+relaton-iev::
+image:https://img.shields.io/gem/v/relaton-iev.svg["Gem Version", link="https://rubygems.org/gems/relaton-iev"]
+image:https://travis-ci.com/relaton/relaton-iev.svg["Build Status", link="https://travis-ci.com/relaton/relaton-iev"]
+image:https://ci.appveyor.com/api/projects/status/lruvad2lliksj24i?svg=true["Appveyor Build Status", link="https://ci.appveyor.com/project/relaton/relaton-iev"]
+image:https://codeclimate.com/github/relaton/relaton-iev/badges/gpa.svg["Code Climate", link="https://codeclimate.com/github/relaton/relaton-iev"]
+
+relaton-cli::
+image:https://img.shields.io/gem/v/relaton-cli.svg["Gem Version", link="https://rubygems.org/gems/relaton-cli"]
+image:https://travis-ci.com/relaton/relaton-cli.svg["Build Status", link="https://travis-ci.com/relaton/relaton-cli"]
+image:https://ci.appveyor.com/api/projects/status/pgpgjq7hxdpkcsnu?svg=true["Appveyor Build Status", link="https://ci.appveyor.com/project/relaton/relaton-cli"]
+image:https://codeclimate.com/github/relaton/relaton-cli/badges/gpa.svg["Code Climate", link="https://codeclimate.com/github/relaton/relaton-cli"]
+
+relaton::
+image:https://img.shields.io/gem/v/relaton.svg["Gem Version", link="https://rubygems.org/gems/relaton"]
+image:https://travis-ci.com/relaton/relaton.svg["Build Status", link="https://travis-ci.com/relaton/relaton"]
+image:https://ci.appveyor.com/api/projects/status/4yhyeif0q19klgme?svg=true["Appveyor Build Status", link="https://ci.appveyor.com/project/relaton/relaton"]
+image:https://codeclimate.com/github/relaton/relaton/badges/gpa.svg["Code Climate", link="https://codeclimate.com/github/relaton/relaton"]
+
+
+
+== Utility / Leaf gems
+
+cnccs::
+image:https://img.shields.io/gem/v/cnccs.svg["Gem Version", link="https://rubygems.org/gems/cnccs"]
+image:https://travis-ci.com/metanorma/cnccs.svg["Build Status", link="https://travis-ci.com/metanorma/cnccs"]
+image:https://ci.appveyor.com/api/projects/status/es8e9ts8aw8236bj?svg=true["Appveyor Build Status", link="https://ci.appveyor.com/project/metanorma/cnccs"]
+image:https://codeclimate.com/github/metanorma/cnccs/badges/gpa.svg["Code Climate", link="https://codeclimate.com/github/metanorma/cnccs"]
+
+gb-agencies::
+image:https://img.shields.io/gem/v/gb-agencies.svg["Gem Version", link="https://rubygems.org/gems/gb-agencies"]
+image:https://travis-ci.org/metanorma/gb-agencies.svg["Build Status", link="https://travis-ci.org/metanorma/gb-agencies"]
+image:https://ci.appveyor.com/api/projects/status/4qbie4j3v5gc7o4k?svg=true["Appveyor Build Status", link="https://ci.appveyor.com/project/metanorma/gb-agencies"]
+image:https://codeclimate.com/github/metanorma/gb-agencies/badges/gpa.svg["Code Climate", link="https://codeclimate.com/github/metanorma/gb-agencies"]
+
+iev::
+image:https://img.shields.io/gem/v/iev.svg["Gem Version", link="https://rubygems.org/gems/iev"]
+image:https://travis-ci.com/metanorma/iev.svg["Build Status", link="https://travis-ci.com/metanorma/iev"]
+image:https://ci.appveyor.com/api/projects/status/qifxbnyscgwgca0y?svg=true["Appveyor Build Status", link="https://ci.appveyor.com/project/metanorma/iev"]
+image:https://codeclimate.com/github/metanorma/iev/badges/gpa.svg["Code Climate", link="https://codeclimate.com/github/metanorma/iev"]
+
+isoics::
+image:https://img.shields.io/gem/v/isoics.svg["Gem Version", link="https://rubygems.org/gems/isoics"]
+image:https://travis-ci.com/metanorma/isoics.svg["Build Status", link="https://travis-ci.com/metanorma/isoics"]
+image:https://ci.appveyor.com/api/projects/status/kuyrgllpwv0to10k?svg=true["Appveyor Build Status", link="https://ci.appveyor.com/project/metanorma/isoics"]
+image:https://codeclimate.com/github/metanorma/isoics/badges/gpa.svg["Code Climate", link="https://codeclimate.com/github/metanorma/isoics"]
+
+
+
+== Purpose
+
+Relaton spans over 20 gems. Changes to underlying gems, such as https://github.com/relaton/relaton[`relaton`] can cause many of the downstream gems to need upgrading.
+
+We use the https://github.com/metanorma/lapidist[`lapidist`] gem to synchronize the releases.
+
+
+== Resources
+
+This repo https://github.com/relaton/relaton-release[`relaton-release`] is used as the main building environment.
+
+It submodules *all* Relaton gems for the release process, and also maintains a gem dependency tree within Relaton (should be easy to automate, or worse to worse manual...).
+
+
+== Flow
+
+This is really a "`composite-git-flow`" kind of process. Maybe it's called `git gush` or `git cascade`.
+
+The typical scenario is:
+
+. A flavor gem needs enhancing (e.g. ISO)
+. `metanorma-iso` forces change on a basic gem, like `isodoc`
+. An `isodoc` update means the testing on all downstream gems needs to be updated
+
+This is how the Metanorma release flow will look like.
+
+
+=== Commands available
+
+[source,sh]
+----
+$ bundle exec lapidist start
+----
+
+
+
+=== Updating code and integrated testing
+
+. Go to this `relaton-release` repository
+
+. Run a script to create feature branches in all gems.
+
+. Do the necessary work in the in this repo
+
+. Run a script that performs tests on all the gems at once using the newly created feature branches
+
+.. (alt) if you want Travis to test for you, push the `relaton-release` repository, and Travis will build for you
+
+. When all the gems pass, run a script to make PRs to every repository. If the feature branch for a gem is empty, the script will ignore it.
+
+. Merge PRs by hand or by script (into master or a release branch)
+
+
+=== Releasing
+
+. When a release branch is ready (for all gems), run a script to:
+.. Bump version of those gems (`VERSION` variable in code)
+.. Update the ``Gemfile``s (remove feature branches)
+.. Update ``gemspec``s to lock versions
+
+. Issue PRs for those gems to merge their release branches into `master`.
+
+. Merge the release PRs by hand or by script.
+
+Ideally, we want to update the base gems first, then the immediately dependent gems, and so forth to ensure that the builds always pass.
+
