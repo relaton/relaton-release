@@ -1,14 +1,16 @@
 GIT
   remote: https://github.com/metanorma/lapidist
-  revision: 538d39a0654d57ed3ceaec595abd8425c54aa5c4
+  revision: 5b6d1b59be803c7549e1a38a072c346ccc996f90
   specs:
     lapidist (0.1.1)
       gem-release
+      thor (~> 0.20.3)
 
 GEM
   remote: https://rubygems.org/
   specs:
     gem-release (2.0.3)
+    thor (0.20.3)
 
 PLATFORMS
   ruby

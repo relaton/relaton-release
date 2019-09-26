@@ -1,13 +1,14 @@
 ---
 syncronized_release:
-  - relaton-iso-bib
   - relaton-bib
+  - relaton-iso-bib
   - relaton-iec
   - relaton-nist
   - relaton-ietf
   - relaton-itu
   - relaton-iso
   - relaton-gb
+  - relaton-ogc
   - relaton
   - relaton-cli
 
@@ -23,47 +24,50 @@ packages:
     repo: https://github.com/metanorma/iev
 
   # Base Relaton gems
-  relaton-iso-bib:
-    repo: https://github.com/metanorma/relaton-iso-bib
   relaton-bib:
-    repo: https://github.com/metanorma/relaton-bib
+    repo: https://github.com/relaton/relaton-bib
+  relaton-iso-bib:
+    repo: https://github.com/relaton/relaton-iso-bib
     dependencies:
+      - relaton-bib
       - isoics
-      - relaton-iso-bib
 
-  # Build on iso-bib-item: Flavour gems
+  # Build on relaton-bib, relaton-iso-bib Flavour gems
   relaton-iec:
-    repo: https://github.com/metanorma/relaton-iec
+    repo: https://github.com/relaton/relaton-iec
     dependencies:
       - relaton-iso-bib
   relaton-nist:
-    repo: https://github.com/metanorma/relaton-nist
+    repo: https://github.com/relaton/relaton-nist
     dependencies:
       - relaton-bib
   relaton-ietf:
-    repo: https://github.com/metanorma/relaton-ietf
+    repo: https://github.com/relaton/relaton-ietf
     dependencies:
       - relaton-bib
   relaton-itu:
-    repo: https://github.com/metanorma/relaton-itu
+    repo: https://github.com/relaton/relaton-itu
     dependencies:
       - relaton-bib
   relaton-iso:
-    repo: https://github.com/metanorma/relaton-iso
+    repo: https://github.com/relaton/relaton-iso
     dependencies:
       - relaton-iso-bib
       - relaton-iec
-      - isoics
   relaton-gb:
-    repo: https://github.com/metanorma/relaton-gb
+    repo: https://github.com/relaton/relaton-gb
     dependencies:
       - relaton-iso-bib
       - cnccs
       - gb-agencies
+  relaton-ogc:
+    repo: https://github.com/relaton/relaton-ogc
+    dependencies:
+      - relaton-iso-bib
 
   # Build on flavour gems
   relaton:
-    repo: https://github.com/metanorma/relaton
+    repo: https://github.com/relaton/relaton
     dependencies:
       - relaton-iso
       - relaton-ietf
@@ -74,7 +78,7 @@ packages:
 
   # CLI
   relaton-cli:
-    repo: https://github.com/metanorma/relaton-cli
+    repo: https://github.com/relaton/relaton-cli
     dependencies:
       - relaton
 

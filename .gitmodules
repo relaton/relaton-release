@@ -4,3 +4,30 @@
 [submodule "relaton"]
 	path = relaton
 	url = https://github.com/relaton/relaton
+[submodule "relaton-bib"]
+	path = relaton-bib
+	url = https://github.com/relaton/relaton-bib
+[submodule "relaton-iso-bib"]
+	path = relaton-iso-bib
+	url = https://github.com/relaton/relaton-iso-bib
+[submodule "relaton-iec"]
+	path = relaton-iec
+	url = https://github.com/relaton/relaton-iec
+[submodule "relaton-nist"]
+	path = relaton-nist
+	url = https://github.com/relaton/relaton-nist
+[submodule "relaton-ietf"]
+	path = relaton-ietf
+	url = https://github.com/relaton/relaton-ietf
+[submodule "relaton-itu"]
+	path = relaton-itu
+	url = https://github.com/relaton/relaton-itu
+[submodule "relaton-gb"]
+	path = relaton-gb
+	url = https://github.com/relaton/relaton-gb
+[submodule "relaton-ogc"]
+	path = relaton-ogc
+	url = https://github.com/relaton/relaton-ogc
+[submodule "relaton-cli"]
+	path = relaton-cli
+	url = https://github.com/relaton/relaton-cli
