@@ -4,105 +4,137 @@ WARNING: This repository is for INTERNAL USE ONLY.
 
 == Relaton gems
 
-relaton-bib::
-image:https://img.shields.io/gem/v/relaton-bib.svg["Gem Version", link="https://rubygems.org/gems/relaton-bib"]
-image:https://travis-ci.com/relaton/relaton-bib.svg["Build Status", link="https://travis-ci.com/relaton/relaton-bib"]
-image:https://ci.appveyor.com/api/projects/status/12o3el12w96vioi5?svg=true["Appveyor Build Status", link="https://ci.appveyor.com/project/relaton/relaton-bib"]
+https://github.com/relaton/relaton-bib[relaton-bib] image:https://img.shields.io/gem/v/relaton-bib.svg["Gem Version", link="https://rubygems.org/gems/relaton-bib"]::
+image:https://github.com/relaton/relaton-bib/workflows/macos/badge.svg["Build Status (macOS)", link="https://github.com/relaton/relaton-bib/actions?workflow=macos"]
+image:https://github.com/relaton/relaton-bib/workflows/macos/badge.svg["Build Status (Windows)"", link="https://github.com/relaton/relaton-bib/actions?workflow=windows"]
+image:https://github.com/relaton/relaton-bib/workflows/ubuntu/badge.svg["Build Status (Ubuntu)", link="https://github.com/relaton/relaton-bib/actions?workflow=ubuntu"]
 image:https://codeclimate.com/github/relaton/relaton-bib/badges/gpa.svg["Code Climate", link="https://codeclimate.com/github/relaton/relaton-bib"]
+image:https://img.shields.io/github/issues-pr-raw/relaton/relaton-bib.svg["Pull Requests", link="https://github.com/relaton/relaton-bib/pulls"]
+image:https://img.shields.io/github/commits-since/relaton/relaton-bib/latest.svg["Commits since latest",link="https://github.com/relaton/relaton-bib/releases"]
 
-relaton-itu::
-image:https://img.shields.io/gem/v/relaton-itu.svg["Gem Version", link="https://rubygems.org/gems/relaton-itu"]
-image:https://travis-ci.com/relaton/relaton-itu.svg["Build Status", link="https://travis-ci.com/relaton/relaton-itu"]
-image:https://ci.appveyor.com/api/projects/status/do11cv5dpfjarr66?svg=true["Appveyor Build Status", link="https://ci.appveyor.com/project/relaton/relaton-itu"]
+https://github.com/relaton/relaton-itu[relaton-itu] image:https://img.shields.io/gem/v/relaton-itu.svg["Gem Version", link="https://rubygems.org/gems/relaton-itu"]::
+image:https://github.com/relaton/relaton-itu/workflows/macos/badge.svg["Build Status (macOS)", link="https://github.com/relaton/relaton-itu/actions?workflow=macos"]
+image:https://github.com/relaton/relaton-itu/workflows/macos/badge.svg["Build Status (Windows)"", link="https://github.com/relaton/relaton-itu/actions?workflow=windows"]
+image:https://github.com/relaton/relaton-itu/workflows/ubuntu/badge.svg["Build Status (Ubuntu)", link="https://github.com/relaton/relaton-itu/actions?workflow=ubuntu"]
 image:https://codeclimate.com/github/relaton/relaton-itu/badges/gpa.svg["Code Climate", link="https://codeclimate.com/github/relaton/relaton-itu"]
+image:https://img.shields.io/github/issues-pr-raw/relaton/relaton-itu.svg["Pull Requests", link="https://github.com/relaton/relaton-itu/pulls"]
+image:https://img.shields.io/github/commits-since/relaton/relaton-itu/latest.svg["Commits since latest",link="https://github.com/relaton/relaton-itu/releases"]
 
-relaton-gb::
-image:https://img.shields.io/gem/v/relaton-gb.svg["Gem Version", link="https://rubygems.org/gems/relaton-gb"]
-image:https://travis-ci.com/relaton/relaton-gb.svg["Build Status", link="https://travis-ci.com/relaton/relaton-gb"]
-image:https://ci.appveyor.com/api/projects/status/wbmp34egb2wl54u7?svg=true["Appveyor Build Status", link="https://ci.appveyor.com/project/relaton/relaton-gb"]
+https://github.com/relaton/relaton-gb[relaton-gb] image:https://img.shields.io/gem/v/relaton-gb.svg["Gem Version", link="https://rubygems.org/gems/relaton-gb"]::
+image:https://github.com/relaton/relaton-gb/workflows/macos/badge.svg["Build Status (macOS)", link="https://github.com/relaton/relaton-gb/actions?workflow=macos"]
+image:https://github.com/relaton/relaton-gb/workflows/macos/badge.svg["Build Status (Windows)"", link="https://github.com/relaton/relaton-gb/actions?workflow=windows"]
+image:https://github.com/relaton/relaton-gb/workflows/ubuntu/badge.svg["Build Status (Ubuntu)", link="https://github.com/relaton/relaton-gb/actions?workflow=ubuntu"]
 image:https://codeclimate.com/github/relaton/relaton-gb/badges/gpa.svg["Code Climate", link="https://codeclimate.com/github/relaton/relaton-gb"]
+image:https://img.shields.io/github/issues-pr-raw/relaton/relaton-gb.svg["Pull Requests", link="https://github.com/relaton/relaton-gb/pulls"]
+image:https://img.shields.io/github/commits-since/relaton/relaton-gb/latest.svg["Commits since latest",link="https://github.com/relaton/relaton-gb/releases"]
 
-relaton-iec::
-image:https://img.shields.io/gem/v/relaton-iec.svg["Gem Version", link="https://rubygems.org/gems/relaton-iec"]
-image:https://travis-ci.com/relaton/relaton-iec.svg["Build Status", link="https://travis-ci.com/relaton/relaton-iec"]
-image:https://ci.appveyor.com/api/projects/status/10m91uw5ve7b03u7?svg=true["Appveyor Build Status", link="https://ci.appveyor.com/project/relaton/relaton-iec"]
+https://github.com/relaton/relaton-iec[relaton-iec] image:https://img.shields.io/gem/v/relaton-iec.svg["Gem Version", link="https://rubygems.org/gems/relaton-iec"]::
+image:https://github.com/relaton/relaton-iec/workflows/macos/badge.svg["Build Status (macOS)", link="https://github.com/relaton/relaton-iec/actions?workflow=macos"]
+image:https://github.com/relaton/relaton-iec/workflows/macos/badge.svg["Build Status (Windows)"", link="https://github.com/relaton/relaton-iec/actions?workflow=windows"]
+image:https://github.com/relaton/relaton-iec/workflows/ubuntu/badge.svg["Build Status (Ubuntu)", link="https://github.com/relaton/relaton-iec/actions?workflow=ubuntu"]
 image:https://codeclimate.com/github/relaton/relaton-iec/badges/gpa.svg["Code Climate", link="https://codeclimate.com/github/relaton/relaton-iec"]
+image:https://img.shields.io/github/issues-pr-raw/relaton/relaton-iec.svg["Pull Requests", link="https://github.com/relaton/relaton-iec/pulls"]
+image:https://img.shields.io/github/commits-since/relaton/relaton-iec/latest.svg["Commits since latest",link="https://github.com/relaton/relaton-iec/releases"]
 
-relaton-ietf::
-image:https://img.shields.io/gem/v/relaton-ietf.svg["Gem Version", link="https://rubygems.org/gems/relaton-ietf"]
-image:https://travis-ci.com/relaton/relaton-ietf.svg["Build Status", link="https://travis-ci.com/relaton/relaton-ietf"]
-image:https://ci.appveyor.com/api/projects/status/9j317su9xsvfi98g?svg=true["Appveyor Build Status", link="https://ci.appveyor.com/project/relaton/relaton-ietf"]
+https://github.com/relaton/relaton-ietf[relaton-ietf] image:https://img.shields.io/gem/v/relaton-ietf.svg["Gem Version", link="https://rubygems.org/gems/relaton-ietf"]::
+image:https://github.com/relaton/relaton-ietf/workflows/macos/badge.svg["Build Status (macOS)", link="https://github.com/relaton/relaton-ietf/actions?workflow=macos"]
+image:https://github.com/relaton/relaton-ietf/workflows/macos/badge.svg["Build Status (Windows)"", link="https://github.com/relaton/relaton-ietf/actions?workflow=windows"]
+image:https://github.com/relaton/relaton-ietf/workflows/ubuntu/badge.svg["Build Status (Ubuntu)", link="https://github.com/relaton/relaton-ietf/actions?workflow=ubuntu"]
 image:https://codeclimate.com/github/relaton/relaton-ietf/badges/gpa.svg["Code Climate", link="https://codeclimate.com/github/relaton/relaton-ietf"]
+image:https://img.shields.io/github/issues-pr-raw/relaton/relaton-ietf.svg["Pull Requests", link="https://github.com/relaton/relaton-ietf/pulls"]
+image:https://img.shields.io/github/commits-since/relaton/relaton-ietf/latest.svg["Commits since latest",link="https://github.com/relaton/relaton-ietf/releases"]
 
-relaton-iso::
-image:https://img.shields.io/gem/v/relaton-iso.svg["Gem Version", link="https://rubygems.org/gems/relaton-iso"]
-image:https://travis-ci.com/relaton/relaton-iso.svg["Build Status", link="https://travis-ci.com/relaton/relaton-iso"]
-image:https://ci.appveyor.com/api/projects/status/nb2hvqycupqrkqjt?svg=true["Appveyor Build Status", link="https://ci.appveyor.com/project/relaton/relaton-iso"]
+https://github.com/relaton/relaton-iso[relaton-iso] image:https://img.shields.io/gem/v/relaton-iso.svg["Gem Version", link="https://rubygems.org/gems/relaton-iso"]::
+image:https://github.com/relaton/relaton-iso/workflows/macos/badge.svg["Build Status (macOS)", link="https://github.com/relaton/relaton-iso/actions?workflow=macos"]
+image:https://github.com/relaton/relaton-iso/workflows/macos/badge.svg["Build Status (Windows)"", link="https://github.com/relaton/relaton-iso/actions?workflow=windows"]
+image:https://github.com/relaton/relaton-iso/workflows/ubuntu/badge.svg["Build Status (Ubuntu)", link="https://github.com/relaton/relaton-iso/actions?workflow=ubuntu"]
 image:https://codeclimate.com/github/relaton/relaton-iso/badges/gpa.svg["Code Climate", link="https://codeclimate.com/github/metanorma/relaton-iso"]
+image:https://img.shields.io/github/issues-pr-raw/relaton/relaton-iso.svg["Pull Requests", link="https://github.com/relaton/relaton-iso/pulls"]
+image:https://img.shields.io/github/commits-since/relaton/relaton/latest.svg["Commits since latest",link="https://github.com/relaton/relaton/releases"]
 
-relaton-iso-bib::
-image:https://img.shields.io/gem/v/relaton-iso-bib.svg["Gem Version", link="https://rubygems.org/gems/relaton-iso-bib"]
-image:https://travis-ci.com/relaton/relaton-iso-bib.svg["Build Status", link="https://travis-ci.com/relaton/relaton-iso-bib"]
-image:https://ci.appveyor.com/api/projects/status/ixgohp20ruhw67bb?svg=true["Appveyor Build Status", link="https://ci.appveyor.com/project/relaton/relaton-iso"]
+https://github.com/relaton/relaton-iso-bib[relaton-iso-bib] image:https://img.shields.io/gem/v/relaton-iso-bib.svg["Gem Version", link="https://rubygems.org/gems/relaton-iso-bib"]::
+image:https://github.com/relaton/relaton-iso-bib/workflows/macos/badge.svg["Build Status (macOS)", link="https://github.com/relaton/relaton-iso-bib/actions?workflow=macos"]
+image:https://github.com/relaton/relaton-iso-bib/workflows/macos/badge.svg["Build Status (Windows)"", link="https://github.com/relaton/relaton-iso-bib/actions?workflow=windows"]
+image:https://github.com/relaton/relaton-iso-bib/workflows/ubuntu/badge.svg["Build Status (Ubuntu)", link="https://github.com/relaton/relaton-iso-bib/actions?workflow=ubuntu"]
 image:https://codeclimate.com/github/relaton/relaton-iso-bib/badges/gpa.svg["Code Climate", link="https://codeclimate.com/github/relaton/relaton-iso-bib"]
+image:https://img.shields.io/github/issues-pr-raw/relaton/relaton-iso-bib.svg["Pull Requests", link="https://github.com/relaton/relaton-iso-bib/pulls"]
+image:https://img.shields.io/github/commits-since/relaton/relaton-iso-bib/latest.svg["Commits since latest",link="https://github.com/relaton/relaton-iso-bib/releases"]
 
-relaton-nist::
-image:https://img.shields.io/gem/v/relaton-nist.svg["Gem Version", link="https://rubygems.org/gems/relaton-nist"]
-image:https://travis-ci.com/relaton/relaton-nist.svg["Build Status", link="https://travis-ci.com/relaton/relaton-nist"]
-image:https://ci.appveyor.com/api/projects/status/w4n8yr1ki2q6ypu6?svg=true["Appveyor Build Status", link="https://ci.appveyor.com/project/relaton/relaton-nist"]
+https://github.com/relaton/relaton-nist[relaton-nist] image:https://img.shields.io/gem/v/relaton-nist.svg["Gem Version", link="https://rubygems.org/gems/relaton-nist"]::
+image:https://github.com/relaton/relaton-nist/workflows/macos/badge.svg["Build Status (macOS)", link="https://github.com/relaton/relaton-nist/actions?workflow=macos"]
+image:https://github.com/relaton/relaton-nist/workflows/macos/badge.svg["Build Status (Windows)"", link="https://github.com/relaton/relaton-nist/actions?workflow=windows"]
+image:https://github.com/relaton/relaton-nist/workflows/ubuntu/badge.svg["Build Status (Ubuntu)", link="https://github.com/relaton/relaton-nist/actions?workflow=ubuntu"]
 image:https://codeclimate.com/github/relaton/relaton-nist/badges/gpa.svg["Code Climate", link="https://codeclimate.com/github/relaton/relaton-nist"]
+image:https://img.shields.io/github/issues-pr-raw/relaton/relaton-nist.svg["Pull Requests", link="https://github.com/relaton/relaton-nist/pulls"]
+image:https://img.shields.io/github/commits-since/relaton/relaton-nist/latest.svg["Commits since latest",link="https://github.com/relaton/relaton-nist/releases"]
 
-relaton-ogc::
-image:https://img.shields.io/gem/v/relaton-ogc.svg["Gem Version", link="https://rubygems.org/gems/relaton-ogc"]
-image:https://travis-ci.com/relaton/relaton-ogc.svg["Build Status", link="https://travis-ci.com/relaton/relaton-ogc"]
-image:https://ci.appveyor.com/api/projects/status/cv5759ng5yl5m78q?svg=true["Appveyor Build Status", link="https://ci.appveyor.com/project/relaton/relaton-ogc"]
+https://github.com/relaton/relaton-ogc[relaton-ogc] image:https://img.shields.io/gem/v/relaton-ogc.svg["Gem Version", link="https://rubygems.org/gems/relaton-ogc"]::
+image:https://github.com/relaton/relaton-ogc/workflows/macos/badge.svg["Build Status (macOS)", link="https://github.com/relaton/relaton-ogc/actions?workflow=macos"]
+image:https://github.com/relaton/relaton-ogc/workflows/macos/badge.svg["Build Status (Windows)"", link="https://github.com/relaton/relaton-ogc/actions?workflow=windows"]
+image:https://github.com/relaton/relaton-ogc/workflows/ubuntu/badge.svg["Build Status (Ubuntu)", link="https://github.com/relaton/relaton-ogc/actions?workflow=ubuntu"]
 image:https://codeclimate.com/github/relaton/relaton-ogc/badges/gpa.svg["Code Climate", link="https://codeclimate.com/github/relaton/relaton-ogc"]
+image:https://img.shields.io/github/issues-pr-raw/relaton/relaton-ogc.svg["Pull Requests", link="https://github.com/relaton/relaton-ogc/pulls"]
+image:https://img.shields.io/github/commits-since/relaton/relaton-ogc/latest.svg["Commits since latest",link="https://github.com/relaton/relaton-ogc/releases"]
 
-relaton-iev::
-image:https://img.shields.io/gem/v/relaton-iev.svg["Gem Version", link="https://rubygems.org/gems/relaton-iev"]
-image:https://travis-ci.com/relaton/relaton-iev.svg["Build Status", link="https://travis-ci.com/relaton/relaton-iev"]
-image:https://ci.appveyor.com/api/projects/status/lruvad2lliksj24i?svg=true["Appveyor Build Status", link="https://ci.appveyor.com/project/relaton/relaton-iev"]
+https://github.com/relaton/relaton-iev[relaton-iev] image:https://img.shields.io/gem/v/relaton-iev.svg["Gem Version", link="https://rubygems.org/gems/relaton-iev"]::
+image:https://github.com/relaton/relaton-iev/workflows/macos/badge.svg["Build Status (macOS)", link="https://github.com/relaton/relaton-iev/actions?workflow=macos"]
+image:https://github.com/relaton/relaton-iev/workflows/macos/badge.svg["Build Status (Windows)"", link="https://github.com/relaton/relaton-iev/actions?workflow=windows"]
+image:https://github.com/relaton/relaton-iev/workflows/ubuntu/badge.svg["Build Status (Ubuntu)", link="https://github.com/relaton/relaton-iev/actions?workflow=ubuntu"]
 image:https://codeclimate.com/github/relaton/relaton-iev/badges/gpa.svg["Code Climate", link="https://codeclimate.com/github/relaton/relaton-iev"]
+image:https://img.shields.io/github/issues-pr-raw/relaton/relaton-iev.svg["Pull Requests", link="https://github.com/relaton/relaton-iev/pulls"]
+image:https://img.shields.io/github/commits-since/relaton/relaton-iev/latest.svg["Commits since latest",link="https://github.com/relaton/relaton-iev/releases"]
 
-relaton-cli::
-image:https://img.shields.io/gem/v/relaton-cli.svg["Gem Version", link="https://rubygems.org/gems/relaton-cli"]
-image:https://travis-ci.com/relaton/relaton-cli.svg["Build Status", link="https://travis-ci.com/relaton/relaton-cli"]
-image:https://ci.appveyor.com/api/projects/status/pgpgjq7hxdpkcsnu?svg=true["Appveyor Build Status", link="https://ci.appveyor.com/project/relaton/relaton-cli"]
+https://github.com/relaton/relaton-cli[relaton-cli] image:https://img.shields.io/gem/v/relaton-cli.svg["Gem Version", link="https://rubygems.org/gems/relaton-cli"]::
+image:https://github.com/relaton/relaton-cli/workflows/macos/badge.svg["Build Status (macOS)", link="https://github.com/relaton/relaton-cli/actions?workflow=macos"]
+image:https://github.com/relaton/relaton-cli/workflows/macos/badge.svg["Build Status (Windows)"", link="https://github.com/relaton/relaton-cli/actions?workflow=windows"]
+image:https://github.com/relaton/relaton-cli/workflows/ubuntu/badge.svg["Build Status (Ubuntu)", link="https://github.com/relaton/relaton-cli/actions?workflow=ubuntu"]
 image:https://codeclimate.com/github/relaton/relaton-cli/badges/gpa.svg["Code Climate", link="https://codeclimate.com/github/relaton/relaton-cli"]
+image:https://img.shields.io/github/issues-pr-raw/relaton/relaton-cli.svg["Pull Requests", link="https://github.com/relaton/relaton-cli/pulls"]
+image:https://img.shields.io/github/commits-since/relaton/relaton-cli/latest.svg["Commits since latest",link="https://github.com/relaton/relaton-cli/releases"]
 
-relaton::
-image:https://img.shields.io/gem/v/relaton.svg["Gem Version", link="https://rubygems.org/gems/relaton"]
-image:https://travis-ci.com/relaton/relaton.svg["Build Status", link="https://travis-ci.com/relaton/relaton"]
-image:https://ci.appveyor.com/api/projects/status/4yhyeif0q19klgme?svg=true["Appveyor Build Status", link="https://ci.appveyor.com/project/relaton/relaton"]
+https://github.com/relaton/relaton[relaton] image:https://img.shields.io/gem/v/relaton.svg["Gem Version", link="https://rubygems.org/gems/relaton"]::
+image:https://github.com/relaton/relaton/workflows/macos/badge.svg["Build Status (macOS)", link="https://github.com/relaton/relaton/actions?workflow=macos"]
+image:https://github.com/relaton/relaton/workflows/macos/badge.svg["Build Status (Windows)"", link="https://github.com/relaton/relaton/actions?workflow=windows"]
+image:https://github.com/relaton/relaton/workflows/ubuntu/badge.svg["Build Status (Ubuntu)", link="https://github.com/relaton/relaton/actions?workflow=ubuntu"]
 image:https://codeclimate.com/github/relaton/relaton/badges/gpa.svg["Code Climate", link="https://codeclimate.com/github/relaton/relaton"]
+image:https://img.shields.io/github/issues-pr-raw/relaton/relaton.svg["Pull Requests", link="https://github.com/relaton/relaton/pulls"]
+image:https://img.shields.io/github/commits-since/relaton/relaton/latest.svg["Commits since latest",link="https://github.com/relaton/relaton/releases"]
 
 
 
 == Utility / Leaf gems
 
-cnccs::
-image:https://img.shields.io/gem/v/cnccs.svg["Gem Version", link="https://rubygems.org/gems/cnccs"]
-image:https://travis-ci.com/metanorma/cnccs.svg["Build Status", link="https://travis-ci.com/metanorma/cnccs"]
-image:https://ci.appveyor.com/api/projects/status/es8e9ts8aw8236bj?svg=true["Appveyor Build Status", link="https://ci.appveyor.com/project/metanorma/cnccs"]
+https://github.com/metanorma/cnccs[cnccs] image:https://img.shields.io/gem/v/cnccs.svg["Gem Version", link="https://rubygems.org/gems/cnccs"]::
+image:https://github.com/metanorma/cnccs/workflows/macos/badge.svg["Build Status (macOS)", link="https://github.com/metanorma/cnccs/actions?workflow=macos"]
+image:https://github.com/metanorma/cnccs/workflows/macos/badge.svg["Build Status (Windows)"", link="https://github.com/metanorma/cnccs/actions?workflow=windows"]
+image:https://github.com/metanorma/cnccs/workflows/ubuntu/badge.svg["Build Status (Ubuntu)", link="https://github.com/metanorma/cnccs/actions?workflow=ubuntu"]
 image:https://codeclimate.com/github/metanorma/cnccs/badges/gpa.svg["Code Climate", link="https://codeclimate.com/github/metanorma/cnccs"]
+image:https://img.shields.io/github/issues-pr-raw/metanorma/cnccs.svg["Pull Requests", link="https://github.com/metanorma/cnccs/pulls"]
+image:https://img.shields.io/github/commits-since/metanorma/cnccs/latest.svg["Commits since latest",link="https://github.com/metanorma/cnccs/releases"]
 
-gb-agencies::
-image:https://img.shields.io/gem/v/gb-agencies.svg["Gem Version", link="https://rubygems.org/gems/gb-agencies"]
-image:https://travis-ci.org/metanorma/gb-agencies.svg["Build Status", link="https://travis-ci.org/metanorma/gb-agencies"]
-image:https://ci.appveyor.com/api/projects/status/4qbie4j3v5gc7o4k?svg=true["Appveyor Build Status", link="https://ci.appveyor.com/project/metanorma/gb-agencies"]
+https://github.com/metanorma/gb-agencies[gb-agencies] image:https://img.shields.io/gem/v/gb-agencies.svg["Gem Version", link="https://rubygems.org/gems/gb-agencies"]::
+image:https://github.com/metanorma/gb-agencies/workflows/macos/badge.svg["Build Status (macOS)", link="https://github.com/metanorma/gb-agencies/actions?workflow=macos"]
+image:https://github.com/metanorma/gb-agencies/workflows/macos/badge.svg["Build Status (Windows)"", link="https://github.com/metanorma/gb-agencies/actions?workflow=windows"]
+image:https://github.com/metanorma/gb-agencies/workflows/ubuntu/badge.svg["Build Status (Ubuntu)", link="https://github.com/metanorma/gb-agencies/actions?workflow=ubuntu"]
 image:https://codeclimate.com/github/metanorma/gb-agencies/badges/gpa.svg["Code Climate", link="https://codeclimate.com/github/metanorma/gb-agencies"]
+image:https://img.shields.io/github/issues-pr-raw/metanorma/gb-agencies.svg["Pull Requests", link="https://github.com/metanorma/gb-agencies/pulls"]
+image:https://img.shields.io/github/commits-since/metanorma/gb-agencies/latest.svg["Commits since latest",link="https://github.com/metanorma/gb-agencies/releases"]
 
-iev::
-image:https://img.shields.io/gem/v/iev.svg["Gem Version", link="https://rubygems.org/gems/iev"]
-image:https://travis-ci.com/metanorma/iev.svg["Build Status", link="https://travis-ci.com/metanorma/iev"]
-image:https://ci.appveyor.com/api/projects/status/qifxbnyscgwgca0y?svg=true["Appveyor Build Status", link="https://ci.appveyor.com/project/metanorma/iev"]
+https://github.com/metanorma/iev[iev] image:https://img.shields.io/gem/v/iev.svg["Gem Version", link="https://rubygems.org/gems/iev"]::
+image:https://github.com/metanorma/iev/workflows/macos/badge.svg["Build Status (macOS)", link="https://github.com/metanorma/iev/actions?workflow=macos"]
+image:https://github.com/metanorma/iev/workflows/macos/badge.svg["Build Status (Windows)"", link="https://github.com/metanorma/iev/actions?workflow=windows"]
+image:https://github.com/metanorma/iev/workflows/ubuntu/badge.svg["Build Status (Ubuntu)", link="https://github.com/metanorma/iev/actions?workflow=ubuntu"]
 image:https://codeclimate.com/github/metanorma/iev/badges/gpa.svg["Code Climate", link="https://codeclimate.com/github/metanorma/iev"]
+image:https://img.shields.io/github/issues-pr-raw/metanorma/iev.svg["Pull Requests", link="https://github.com/metanorma/iev/pulls"]
+image:https://img.shields.io/github/commits-since/metanorma/iev/latest.svg["Commits since latest",link="https://github.com/metanorma/iev/releases"]
 
-isoics::
-image:https://img.shields.io/gem/v/isoics.svg["Gem Version", link="https://rubygems.org/gems/isoics"]
-image:https://travis-ci.com/metanorma/isoics.svg["Build Status", link="https://travis-ci.com/metanorma/isoics"]
-image:https://ci.appveyor.com/api/projects/status/kuyrgllpwv0to10k?svg=true["Appveyor Build Status", link="https://ci.appveyor.com/project/metanorma/isoics"]
+https://github.com/metanorma/isoics[isoics] image:https://img.shields.io/gem/v/isoics.svg["Gem Version", link="https://rubygems.org/gems/isoics"]::
+image:https://github.com/metanorma/isoics/workflows/macos/badge.svg["Build Status (macOS)", link="https://github.com/metanorma/isoics/actions?workflow=macos"]
+image:https://github.com/metanorma/isoics/workflows/macos/badge.svg["Build Status (Windows)"", link="https://github.com/metanorma/isoics/actions?workflow=windows"]
+image:https://github.com/metanorma/isoics/workflows/ubuntu/badge.svg["Build Status (Ubuntu)", link="https://github.com/metanorma/isoics/actions?workflow=ubuntu"]
 image:https://codeclimate.com/github/metanorma/isoics/badges/gpa.svg["Code Climate", link="https://codeclimate.com/github/metanorma/isoics"]
+image:https://img.shields.io/github/issues-pr-raw/metanorma/isoics.svg["Pull Requests", link="https://github.com/metanorma/isoics/pulls"]
+image:https://img.shields.io/github/commits-since/metanorma/isoics/latest.svg["Commits since latest",link="https://github.com/metanorma/isoics/releases"]
 
 
 
