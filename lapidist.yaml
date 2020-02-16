@@ -9,6 +9,8 @@ syncronized_release:
   - relaton-iso
   - relaton-gb
   - relaton-ogc
+  - relaton-calconnect
+  - relaton-omg
   - relaton
   - relaton-cli
 
@@ -65,6 +67,16 @@ packages:
     dependencies:
       - relaton-iso-bib
 
+  relaton-calconnect:
+    repo: https://github.com/relaton/relaton-calconnect
+    dependencies:
+      - relaton-iso-bib
+
+  relaton-omg:
+    repo: https://github.com/relaton/relaton-omg
+    dependencies:
+      - relaton-bib
+
   # Build on flavour gems
   relaton:
     repo: https://github.com/relaton/relaton
@@ -75,6 +87,9 @@ packages:
       - relaton-nist
       - relaton-iec
       - relaton-gb
+      - relaton-ogc
+      - relaton-calconnect
+      - relaton-omg
 
   # CLI
   relaton-cli:
