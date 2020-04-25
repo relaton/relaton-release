@@ -11,6 +11,8 @@ syncronized_release:
   - relaton-ogc
   - relaton-calconnect
   - relaton-omg
+  - relaton-un
+  - relaton-w3c
   - relaton
   - relaton-cli
 
@@ -77,6 +79,16 @@ packages:
     dependencies:
       - relaton-bib
 
+  relaton-un:
+    repo: https://github.com/relaton/relaton-un
+    dependencies:
+      - relaton-un
+
+  relaton-w3c:
+    repo: https://github.com/relaton/relaton-w3c
+    dependencies:
+      - relaton-w3c
+
   # Build on flavour gems
   relaton:
     repo: https://github.com/relaton/relaton
@@ -90,10 +102,11 @@ packages:
       - relaton-ogc
       - relaton-calconnect
       - relaton-omg
+      - relaton-un
+      - relaton-w3c
 
   # CLI
   relaton-cli:
     repo: https://github.com/relaton/relaton-cli
     dependencies:
       - relaton
-
